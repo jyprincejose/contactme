@@ -2,7 +2,7 @@
     "name": "grohood/ordermanagement",
     "description": "Order Management for backend",
     "type": "library",
-    "license": "Grohood",
+    "license": "MIT",
     "authors": [
         {
             "name": "Prince JOse",
